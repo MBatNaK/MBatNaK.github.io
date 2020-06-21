@@ -9,3 +9,5 @@ Er wurde daraufhin auf das Fettes College in Edinburgh geschickt, wo auch sein V
 * genießt das Leben
 * hat erfolg bei Frauen
 * schießt gut
+
+> Mein Name ist Bond, James Bond!

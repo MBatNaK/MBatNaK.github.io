@@ -11,3 +11,5 @@ Er wurde daraufhin auf das Fettes College in Edinburgh geschickt, wo auch sein V
 * schießt gut
 
 > Mein Name ist Bond, James Bond!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Timothy_Dalton_1987.jpg"/>
